@@ -121,7 +121,6 @@ a {
 .wall_black {
     justify-content: center;
     width: 100vw;
-    display: flex;
     align-items: center;
     background-color: #202020;
     background-size: cover;
@@ -191,7 +190,6 @@ a {
 .wall_pink {
     justify-content: center;
     width: 100vmax;
-    display: flex;
     align-items: center;
     background-color:#E8D1D1;
     background-size: cover;
